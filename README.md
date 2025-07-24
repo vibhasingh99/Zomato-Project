@@ -108,6 +108,5 @@ This project demonstrates how NLP techniques can enhance recommendation systems 
 
 ## 🧑‍💻 Author
 
-**Vibha Chauhan**  
-MCA – Data Science Student  
-Email: *[Add if submitting]*
+**Vibha Singh Chauhan**   
+Email: vibhachauhan85@gmail.com
